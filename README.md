@@ -1,4 +1,4 @@
-# Sneaky-Mansion-PC
+# 2DRun-PC
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a PC game made with UNITY 2020.3 game engine. It is 2D platformer wgere te player runs left to right(finish point)
 The Atmosphere is meant to be creepy and the environment and audio help set the tempo to terrifyingly fun.😨
