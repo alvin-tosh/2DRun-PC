@@ -24,7 +24,7 @@ Here there are:
 1. Assets
 2. Prefabs
 3. Scripts c# 
-4. GameObjects (Player, environment, enemies, waypoints)
+4. GameObjects (Player, environment, enemies, waypoints, tokens)
 5. All other stuff...
 Enjoy the game and contributing to it!
 ```
