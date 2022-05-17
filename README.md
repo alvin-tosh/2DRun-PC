@@ -12,7 +12,7 @@ Enjoy and feel free to contribute more levels, characters and mechanics.🔧⚙�
 ```
 Download as zip
 Navigate to the 2DRun folder
-run/double-click on Sneaky Mansion.exe
+run/double-click on 2DRun.exe
 Enjoy the game!
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
