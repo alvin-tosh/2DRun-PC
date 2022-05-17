@@ -1,4 +1,4 @@
-# 2DRun-PC
+# 2DRun-PC 🏃‍♂️
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a PC game made with UNITY 2020.3 game engine. It is 2D platformer where the player runs left to right(finish point) avoiding
 enemies and physical obstacles to reach the finish line and collect all coins(token).
