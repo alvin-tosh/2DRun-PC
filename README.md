@@ -13,6 +13,8 @@ Download as zip
 Navigate to the 2DRun folder
 run/double-click on 2DRun.exe
 Enjoy the game!
+
+alt-F4 to exit
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 👉 HOW TO CONTRIBUTE 🦜🌳
